@@ -18,4 +18,3 @@ var marker3 = L.marker([43.004869,41.07336]).addTo(mymap);
 marker1.bindPopup("Hello,suckers!").openPopup();
 marker2.bindPopup("Hello,assholes!").openPopup();
 marker3.bindPopup("helluva,bitcher!").openPopup();
-var mymap = L.map('mapid').setView([51.505, -0.09], 13);
